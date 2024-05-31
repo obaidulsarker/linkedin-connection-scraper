@@ -1,0 +1,7 @@
+__pycache__
+.venv/
+test.py
+test2.py
+test.py
+.env
+scrape5.py
